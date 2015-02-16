@@ -1,0 +1,19 @@
+{
+  "name": "conagua",
+  "version": "1.0.1",
+  "homepage": "https://github.com/GobiernoFacil/conagua_facil",
+  "authors": [
+    "el coruco <el.coruco@gmail.com>"
+  ],
+  "description": "facilitar el uso del servicio de conagua",
+  "main": "main.js",
+  "keywords": [
+    "conagua"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "backbone": "~1.1.2",
+    "jquery": "~2.1.3"
+  }
+}
